@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1755348770025,
+      "tag": "0000_lush_tag",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1755493069928,
+      "tag": "0001_lowly_valkyrie",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1755500674885,
+      "tag": "0002_fixed_venus",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1755501788767,
+      "tag": "0003_unusual_doctor_doom",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1755611538739,
+      "tag": "0004_loving_silhouette",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1755662689713,
+      "tag": "0005_hesitant_king_cobra",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1755663075352,
+      "tag": "0006_fine_the_stranger",
+      "breakpoints": true
+    }
+  ]
+}
